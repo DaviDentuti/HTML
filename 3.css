@@ -1,0 +1,20 @@
+body {
+  text-align: center;
+  background-color: black;
+  color: white;
+  background-image: url('bra.jpeg');
+  image-rendering: smooth;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: center;
+}
+.login {
+  width: 25%;
+  margin: auto;
+  border-collapse: collapse;
+  border: 1px solid white;
+  padding: 10px;
+  background: transparent;
+  backdrop-filter: blur(20px);
+}
